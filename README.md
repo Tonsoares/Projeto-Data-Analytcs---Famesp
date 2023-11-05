@@ -90,4 +90,4 @@ Pay_Amt6 Valor pago em Abril
 Default_payment_next_month Valor 0 ou 1 - 0 significa não-inadimplência e 1
 significa inadimplência
 
-## Link do Dashboard no Power BI: clique aqui
+ [Link do Dashboard no Power BI: clique aqui](https://app.powerbi.com/view?r=eyJrIjoiY2FlNzlkMGEtYmEzNy00YzlhLWE2NDgtYmMxN2U1NmUxZGZiIiwidCI6IjgxODgxNjBjLTAwZTAtNDc0MC1iYTgyLTk5NDFmNzcyMmU4MCJ9)
